@@ -1,0 +1,1244 @@
+{
+  "versions": [
+    {
+      "version": "2.2.5",
+      "features": [
+        {
+          "title": "Expeditions / Dungeons Statistics",
+          "description": "Added monster fights statistics"
+        },
+        {
+          "title": "Bugs / Improvements",
+          "description": "Other small bugs and improvements"
+        }
+      ]
+    },
+    {
+      "version": "2.2.4",
+      "features": [
+        {
+          "title": "UX improvements",
+          "description": "Added main feature pages toggle, in case sidebar is mini, to access feature toggle, info buton that redirect to guide on each page"
+        },
+        {
+          "title": "Dungeon Gate Keys",
+          "description": "Added option to Use Gate Keys for Dungeons"
+        },
+        {
+          "title": "UW quests",
+          "description": "Cancel normal quest before going in UW"
+        }
+      ]
+    },
+    {
+      "version": "2.2.3",
+      "features": [
+        {
+          "title": "Quest Statistics",
+          "description": "Added quest statistic"
+        },
+        {
+          "title": "Quest Filters",
+          "description": "Added Quest filers for min honor and min gold"
+        }
+      ]
+    },
+    {
+      "version": "2.2.2",
+      "features": [
+        {
+          "title": "Packages Page",
+          "description": "Improved UI on packages page pick/sell etc."
+        },
+        {
+          "title": "Gold hide Auction",
+          "description": "Added min price for auction items that bot can buy"
+        },
+        {
+          "title": "UW travel Bug",
+          "description": "Fixed issue where bot will travel to UW even if the costume is already available"
+        }
+      ]
+    },
+    {
+      "version": "2.2.1",
+      "features": [
+        {
+          "title": "Bug Fixes",
+          "description": "Resolved various minor issues caused by the new UI changes in v2.2.0."
+        }
+      ]
+    },
+    {
+      "version": "2.2.0",
+      "features": [
+        {
+          "title": "UI & UX",
+          "description": "Improved UI and UX for a better user experience"
+        },
+        {
+          "title": "Bugs / Improvements",
+          "description": "Other small bugs and improvements"
+        }
+      ]
+    },
+    {
+      "version": "2.1.27",
+      "features": [
+        {
+          "title": "Telegram Replay",
+          "description": "You can now reply to any in-game message via Telegram within 5 minutes of receiving it"
+        },
+        {
+          "title": "Cloud Config improved",
+          "description": "Improved config size for export / import"
+        }
+      ]
+    },
+    {
+      "version": "2.1.26",
+      "features": [
+        {
+          "title": "Hide Gold",
+          "description": "Added Backup flow for hide gold in case first flow can not hide any more your gold"
+        },
+        {
+          "title": "Hide Gold (Shop)",
+          "description": "Improved Shop flow to buy all items that were sold by you."
+        },
+        {
+          "title": "Cloud Config",
+          "description": "Added Export/Import configuration from Cloud"
+        }
+      ]
+    },
+    {
+      "version": "2.1.25",
+      "features": [
+        {
+          "title": "Vendors sell option",
+          "description": "Added sell form inventory in vendors view"
+        },
+        {
+          "title": "UI bug",
+          "description": "fixed UI issue with timer for end license if is less the 0 days"
+        }
+      ]
+    },
+    {
+      "version": "2.1.24",
+      "features": [
+        {
+          "title": "Pause Bug",
+          "description": "Fixed issue where inactive pauses got deleted"
+        },
+        {
+          "title": "Max Attacks Pro",
+          "description": "Added max attacks in prov"
+        },
+        {
+          "title": "Prov attack",
+          "description": "Added option to attack only priority/target list in prov"
+        },
+        {
+          "title": "UI",
+          "description": "Added timer for end license if is less the 0 days"
+        }
+      ]
+    },
+    {
+      "version": "2.1.23",
+      "features": [
+        {
+          "title": "Notification",
+          "description": "Added Remove all button"
+        },
+        {
+          "title": "Shop renew Bug",
+          "description": "Fixed shop renew issue"
+        },
+        {
+          "title": "Costume Bug",
+          "description": "Fixed Saturn & Bubona costumes wear issue"
+        },
+        {
+          "title": "Guild Hide gold",
+          "description": "Added filter by player name and soul bounded to in guild packages"
+        }
+      ]
+    },
+    {
+      "version": "2.1.22",
+      "features": [
+        {
+          "title": "Re-login",
+          "description": "Added configurable delay for re-login"
+        },
+        {
+          "title": "Heal",
+          "description": "Improved speed for usable checking in packages"
+        },
+        {
+          "title": "Other Bugs",
+          "description": "Fixed small issues"
+        }
+      ]
+    },
+    {
+      "version": "2.1.21",
+      "features": [
+        {
+          "title": "Market",
+          "description": "Prevent selling soulbound food"
+        },
+        {
+          "title": "Shops",
+          "description": "Added food shop to search"
+        },
+        {
+          "title": "Telegram",
+          "description": "Added disconnect/refresh token buttons"
+        },
+        {
+          "title": "Telegram",
+          "description": "Added new Bot notifications (errors, gold expired)"
+        },
+        {
+          "title": "Invite Friends & Earn Discounts",
+          "description": "To retrieve your personal invite link, please visit your profile page on our website."
+        },
+        {
+          "title": "Buffs",
+          "description": "Improved buffing process, to add buffs only after clone win fight"
+        },
+        {
+          "title": "Pacts Bugs",
+          "description": "Fixed issue where not allowed to use cervisia was omitted."
+        }
+      ]
+    },
+    {
+      "version": "2.1.20",
+      "features": [
+        {
+          "title": "Underworld",
+          "description": "Added option to Take of Weapon on clone fight"
+        },
+        {
+          "title": "Buffs",
+          "description": "Improved buffing process"
+        },
+        {
+          "title": "Forge",
+          "description": "Added quality accepted for success"
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed modals height issue"
+        }
+      ]
+    },
+    {
+      "version": "2.1.19",
+      "features": [
+        {
+          "title": "Pause",
+          "description": "Deactivate/activate and edit pauses"
+        },
+        {
+          "title": "Pause",
+          "description": "Added option to Omit pause from UW costume logic and Force pause even if UW costume is on"
+        }
+      ]
+    },
+    {
+      "version": "2.1.18",
+      "features": [
+        {
+          "title": "Hide gold Guild/Market",
+          "description": "Added possibility to buy/sell multiple packs at once. Added sorting order for packs. Added speed options"
+        },
+        {
+          "title": "UW run",
+          "description": "Added option for max Medics to use. Added option for Guild message before run starts"
+        }
+      ]
+    },
+    {
+      "version": "2.1.17",
+      "features": [
+        {
+          "title": "Heal from packages Bug fix",
+          "description": "Fixed issue where bot was looking only on the first page of usable from packages for healing items"
+        },
+        {
+          "title": "UW run timer",
+          "description": "Added display for UW timer cooldown"
+        },
+        {
+          "title": "Provinciarum Bug Fixes",
+          "description": "Fixed Provinciarum related issue, after Gladiatus recent update for dose that have no opponents"
+        }
+      ]
+    },
+    {
+      "version": "2.1.16",
+      "features": [
+        {
+          "title": "Eggs Select",
+          "description": "Added option to select what eggs can be used for heal"
+        },
+        {
+          "title": "Performance",
+          "description": "Flow Optimizations (less page reloads)"
+        }
+      ]
+    },
+    {
+      "version": "2.1.15.4",
+      "features": [
+        {
+          "title": "Event bug fix",
+          "description": "Fixed attacks on event"
+        }
+      ]
+    },
+    {
+      "version": "2.1.15.3",
+      "features": [
+        {
+          "title": "Forge resources display",
+          "description": "Fixed forge required resources display"
+        }
+      ]
+    },
+    {
+      "version": "2.1.15.2",
+      "features": [
+        {
+          "title": "Quest Gods reword bug fix",
+          "description": "Fixed quest God reward picking"
+        },
+        {
+          "title": "Shop renew bug fix",
+          "description": "Fixed shop renew using cloths"
+        }
+      ]
+    },
+    {
+      "version": "2.1.15.1",
+      "features": [
+        {
+          "title": "Bug Fixes",
+          "description": "Fixed all issued that were found, after Gladiatus update"
+        }
+      ]
+    },
+    {
+      "version": "2.1.15",
+      "features": [
+        {
+          "title": "Bug Fixes",
+          "description": "Fixed all issued that were found, after Gladiatus update"
+        },
+        {
+          "title": "Telegram Notifications",
+          "description": "Receive instant Private Message and Guild Message notifications on your linked device"
+        }
+      ]
+    },
+    {
+      "version": "2.1.14",
+      "features": [
+        {
+          "title": "Bug Fixes",
+          "description": "Re-Login fixed"
+        },
+        {
+          "title": "Magus upgrade",
+          "description": "Added quick upgrade button at Magus"
+        }
+      ]
+    },
+    {
+      "version": "2.1.13",
+      "features": [
+        {
+          "title": "Bug Fixes",
+          "description": "Fixed sell usable on market price input"
+        },
+        {
+          "title": "Malefica Stack items",
+          "description": "Added stack items button for Malefica"
+        }
+      ]
+    },
+    {
+      "version": "2.1.12",
+      "features": [
+        {
+          "title": "Bug Fixes and Improvements",
+          "description": "Addressed various minor bugs and made small improvements for better stability and usability."
+        }
+      ]
+    },
+    {
+      "version": "2.1.11",
+      "features": [
+        {
+          "title": "Daily Bonus",
+          "description": "Added option to auto collect daily bonuses"
+        },
+        {
+          "title": "Highscore Bord",
+          "description": "Apply level restriction for attacking players in Highscore Bord too"
+        }
+      ]
+    },
+    {
+      "version": "2.1.10",
+      "features": [
+        {
+          "title": "Event stop At Leader score",
+          "description": "Added option to stop event attacks if scores matched Leader score"
+        },
+        {
+          "title": "Times Display",
+          "description": "Added Time display for repetitive Features like sell/buy market, packages features, event. This times can be reset by pressing X"
+        }
+      ]
+    },
+    {
+      "version": "2.1.9.1",
+      "features": [
+        {
+          "title": "Wave Event",
+          "description": "Fix bugs for Wave event and added Fallow leader feature for waves"
+        }
+      ]
+    },
+    {
+      "version": "2.1.9",
+      "features": [
+        {
+          "title": "Performance fix",
+          "description": "Fix Performance issue regarding packages and GCA addon"
+        }
+      ]
+    },
+    {
+      "version": "2.1.8",
+      "features": [
+        {
+          "title": "UI",
+          "description": "Small UI changes"
+        },
+        {
+          "title": "Performance",
+          "description": "Performance Optimizations on CPU"
+        },
+        {
+          "title": "Essential",
+          "description": "Added Event functionality for Essential keys too"
+        }
+      ]
+    },
+    {
+      "version": "2.1.7",
+      "features": [
+        {
+          "title": "Bug fix",
+          "description": "Fixed bug where sold items did not worked on Auto Repair"
+        },
+        {
+          "title": "Packages Operations Speed",
+          "description": "Added option to select the speed of bot to use for Rotation, Selling and Pick gold. Recommendation use Normal to mimic human behavior."
+        },
+        {
+          "title": "Lock Inventory",
+          "description": "Added a lock-in mechanism for the slots in inventory that the bots it's working on(currently), this is going to apply on all tabs opened for that character."
+        }
+      ]
+    },
+    {
+      "version": "2.1.6",
+      "features": [
+        {
+          "title": "Bug fix",
+          "description": "Fixed bug where Hide Gold did not worked for Essential license"
+        }
+      ]
+    },
+    {
+      "version": "2.1.5",
+      "features": [
+        {
+          "title": "Filter UW Items",
+          "description": "Added option to filter underworld items in packages"
+        },
+        {
+          "title": "Pacts",
+          "description": "Auto activate Pacts"
+        },
+        {
+          "title": "Expeditions",
+          "description": "Added cooldown reduction option"
+        },
+        {
+          "title": "Hide Gold / Sell Market",
+          "description": "Added option for 48h if available"
+        },
+        {
+          "title": "Improvements",
+          "description": "Improved Rotation, Selling and Gold Picking speed"
+        }
+      ]
+    },
+    {
+      "version": "2.1.4",
+      "features": [
+        {
+          "title": "Travelling for Dungeons",
+          "description": "Stop travelling while UW3 costume is equipped"
+        },
+        {
+          "title": "Bug Fixes and Improvements",
+          "description": "Addressed various minor bugs and made small improvements for better stability and usability."
+        }
+      ]
+    },
+    {
+      "version": "2.1.3",
+      "features": [
+        {
+          "title": "Smelt",
+          "description": "Added option to repair before smelt for each rule"
+        },
+        {
+          "title": "Bug Fixes and Improvements",
+          "description": "Addressed various minor bugs and made small improvements for better stability and usability."
+        }
+      ]
+    },
+    {
+      "version": "2.1.2",
+      "features": [
+        {
+          "title": "Underworld",
+          "description": "Added option to stop Underworld runs if no points are left and stay in Underworld for a set number of hours while farming."
+        },
+        {
+          "title": "Quest System",
+          "description": "Introduced a new Quest UI with drag-and-drop ordering and new quest filters. Also added a quest feature for Underworld farming."
+        },
+        {
+          "title": "Guild Attacks",
+          "description": "Added the ability to attack with guild."
+        },
+        {
+          "title": "Expedition Work",
+          "description": "Enabled the bot to work while no expedition points are available."
+        },
+        {
+          "title": "Work on Pause",
+          "description": "Added customization options for how the bot behaves while on pause."
+        },
+        {
+          "title": "Netherlands Translation",
+          "description": "Added support for the Dutch language."
+        }
+      ]
+    },
+    {
+      "version": "2.1.1",
+      "features": [
+        {
+          "title": "Bulgarian Language",
+          "description": "Added Bulgarian Language"
+        },
+        {
+          "title": "Hide Gold",
+          "description": "Added possibility to select the item types on Auction hide gold"
+        },
+        {
+          "title": "Smelt Rules",
+          "description": "Improved Smelt Rules with new Condition based on Resource type"
+        },
+        {
+          "title": "Bug Fixes and Improvements",
+          "description": "Addressed various minor bugs and made small improvements for better stability and usability."
+        }
+      ]
+    },
+    {
+      "version": "2.1.0",
+      "features": [
+        {
+          "title": "Banking System",
+          "description": "Created a banking system for on-demand packs. For this to work both users have to be in the same guild and also to have a active licence on each account."
+        },
+        {
+          "title": "Dynamic Time for Packs Rotation",
+          "description": "Implemented dynamic timing for pack rechecks to optimize performance based on packages pages. Optimized memory usage"
+        },
+        {
+          "title": "Arabic Language",
+          "description": "Added Arabic Language"
+        },
+        {
+          "title": "Turma/Arena",
+          "description": "Improved workflow to skip Gladiatus bug (duplicate opponents)"
+        },
+        {
+          "title": "Licence",
+          "description": "Improved Licence system. Now on activate with work key it will return the active key if there is one. Also if you have an active key with les then 7 days remaining activating a new key will extend the new key duration wit the previous key remaining time.Also if there the key as more then 7 day time remaining the new key on activate will not activate it will return the old key"
+        },
+        {
+          "title": "Sell to Shop",
+          "description": "Added Sell Now button"
+        },
+        {
+          "title": "Rules UI",
+          "description": "Improved Rules UI and added export for individual/all rules and import"
+        },
+        {
+          "title": "Bug Fixes and Improvements",
+          "description": "Addressed various minor bugs and made small improvements for better stability and usability."
+        }
+      ]
+    },
+    {
+      "version": "2.0.29",
+      "features": [
+        {
+          "title": "Auction Improvements",
+          "description": "Enhanced the auction feature, especially for food auctions. Added an option to outbid guild members or family."
+        },
+        {
+          "title": "Shop Auto-Buy",
+          "description": "Fixed a bug related to the shop's auto-buy feature."
+        },
+        {
+          "title": "Event Points Renewal",
+          "description": "Resolved a bug affecting the renewal of event points."
+        },
+        {
+          "title": "Bug Fixes and Improvements",
+          "description": "Addressed various minor bugs and made small improvements for better stability and usability."
+        }
+      ]
+    },
+    {
+      "version": "2.0.28.1",
+      "features": [
+        {
+          "title": "General Improvements",
+          "description": "Addressed various minor improvements and bug fixes to enhance stability and performance."
+        }
+      ]
+    },
+    {
+      "version": "2.0.28",
+      "features": [
+        {
+          "title": "Underworld Rubies",
+          "description": "Added a max ruby threshold for Underworld."
+        },
+        {
+          "title": "Arena Stats Tab",
+          "description": "Introduced a new Stats tab to track and display various metrics."
+        },
+        {
+          "title": "Toss Dice Event",
+          "description": "Added automation for the Toss Dice event."
+        },
+        {
+          "title": "Centurio Activation",
+          "description": "Added an option to auto-activate Centurio."
+        },
+        {
+          "title": "Shop Tab",
+          "description": "Added a new Shop tab with customizable rules and search functionality, including auto-buy."
+        },
+        {
+          "title": "Dynamic Time for Packs",
+          "description": "Implemented dynamic timing for pack rechecks to optimize performance."
+        },
+        {
+          "title": "Smelting",
+          "description": "Improved the smelting flow for better efficiency and usability."
+        },
+        {
+          "title": "Pack Management",
+          "description": "Enhanced pack rotation, selling, and gold picking processes."
+        },
+        {
+          "title": "General Improvements",
+          "description": "Addressed various minor improvements and bug fixes to enhance stability and performance."
+        }
+      ]
+    },
+    {
+      "version": "2.0.27",
+      "features": [
+        {
+          "title": "Random delay",
+          "description": "Added more options for random delay"
+        },
+        {
+          "title": "Hide gold",
+          "description": "Added a new option for donating gold to guild"
+        },
+        {
+          "title": "Pause",
+          "description": "Added option to donate gold before pause if is less then min pack value."
+        },
+        {
+          "title": "Auction",
+          "description": "Added an option to pick gold from packages"
+        },
+        {
+          "title": "Expedition Travel",
+          "description": "Added option for min dungeon points needed for travel"
+        },
+        {
+          "title": "Underworld",
+          "description": "Added min health just fur underworld. Added customs selection. Added reinforcements selection."
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed bug where bot stopped from working if it was on a sub page from overview page"
+        },
+        {
+          "title": "Improvements",
+          "description": "Addressed various minor improvements to enhance stability and usability."
+        }
+      ]
+    },
+    {
+      "version": "2.0.26",
+      "features": [
+        {
+          "title": "Loot Option",
+          "description": "Added Loot option with an extra option to loot any report."
+        },
+        {
+          "title": "Forge",
+          "description": "Added a new Forge feature to help manage crafting and resources more efficiently."
+        },
+        {
+          "title": "Provincial Arena",
+          "description": "Improved Provincial Arena attacks for better performance and strategy."
+        },
+        {
+          "title": "Combat Quest Exclusion",
+          "description": "Added an option to exclude combat quests from Arena attacks, giving you more control."
+        },
+        {
+          "title": "Hide Gold",
+          "description": "Fixed a bug with Hide Gold in the Guild to ensure smooth functionality."
+        },
+        {
+          "title": "Bugs and Improvements",
+          "description": "Addressed various minor bugs and made improvements to enhance stability and usability."
+        }
+      ]
+    },
+    {
+      "version": "2.0.25",
+      "features": [
+        {
+          "title": "Packages",
+          "description": "Added Packages tab, reworked UI accessibility (packages tab includes Rotate items auto sell items and pick Gold from packages) "
+        },
+        {
+          "title": "Auto sell",
+          "description": "Reworked auto sell, Making it with more customizable rules and added it as a sub tab for Packages tab"
+        },
+        {
+          "title": "Random Delay",
+          "description": "Changed random delay from 0-max delay to max/2 - max delay so it will be more human like. Added random delay to hide gold in Guild as well"
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed minor bugs to improve stability and performance"
+        }
+      ]
+    },
+    {
+      "version": "2.0.24",
+      "features": [
+        {
+          "title": "Public Market sell",
+          "description": "Added option to auto sell items in public market"
+        },
+        {
+          "title": "Underworld Costume",
+          "description": "Added option to prevent use of Underworld Costume if overlaps with pauses"
+        },
+        {
+          "title": "One Click Rotate",
+          "description": "Added option to rotate items form inventory in guild market with one click"
+        },
+        {
+          "title": "Hide Gold",
+          "description": "Improved the Hide Gold feature to prioritize selling packages, making the process more efficient"
+        },
+        {
+          "title": "Error Notifications",
+          "description": "Added notifications for food and repair errors so you’re aware when an issue occurs"
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed minor bugs to improve stability and performance"
+        }
+      ]
+    },
+    {
+      "version": "2.0.23",
+      "features": [
+        {
+          "title": "Arena/Turma",
+          "description": "Added option for only one attack in Highscore board"
+        },
+        {
+          "title": "UI",
+          "description": "Small enhancement to dropdowns"
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed issue with random inactive key"
+        }
+      ]
+    },
+    {
+      "version": "2.0.22",
+      "features": [
+        {
+          "title": "Arena/Turma",
+          "description": "Reworked: Added new functionalities: • Limit of attacks per day • Revenge Attack • Arena League progress • Highscore Bord attack • And more others"
+        },
+        {
+          "title": "Quest",
+          "description": "Reworked backend for quest picking now should work better and also you can chose to pick quest even if the selected type feature is inactive"
+        },
+        {
+          "title": "Expeditions/Event",
+          "description": "Improved auto collect bonuses, so that after it has collected all the bonuses it will attack the selected mob instead of the Boss"
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed other small issues."
+        }
+      ]
+    },
+    {
+      "version": "2.0.21.1",
+      "features": [
+        {
+          "title": "Free Expeditions",
+          "description": "Added Expedition on free plan"
+        },
+        {
+          "title": "Free Dungeons",
+          "description": "Added Dungeons on free plan"
+        },
+        {
+          "title": "Event Bug fix",
+          "description": "Fixed event bug(not attacking)"
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed other small issues."
+        }
+      ]
+    },
+    {
+      "version": "2.0.20",
+      "features": [
+        {
+          "title": "New Auction Filters",
+          "description": "Added new auction filters, added reworked auction flow"
+        },
+        {
+          "title": "Reset Settings",
+          "description": "Added reset settings button"
+        },
+        {
+          "title": "Performance",
+          "description": "Optimized the script to consume even less resources then it did before"
+        },
+        {
+          "title": "UI",
+          "description": "Added some UI Enhancements for better user experience"
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed other small issues."
+        }
+      ]
+    },
+    {
+      "version": "2.0.19",
+      "features": [
+        {
+          "title": "Underworld Run Fix",
+          "description": "Fixed an issue affecting underworld runs to ensure smoother gameplay."
+        },
+        {
+          "title": "New Smelting Filters",
+          "description": "Added new smelting filters, added possibility of using hammers"
+        },
+        {
+          "title": "Pack Rotation Enhancements",
+          "description": "Reworked pack rotation"
+        },
+        {
+          "title": "Forge",
+          "description": "Added option to clone forge or set tools"
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed other small issues."
+        }
+      ]
+    },
+    {
+      "version": "2.0.18",
+      "features": [
+        {
+          "title": "Underworld Run Fix",
+          "description": "Fixed an issue affecting underworld runs to ensure smoother gameplay."
+        },
+        {
+          "title": "Item Pickup Fix",
+          "description": "Resolved a bug related to picking up items, improving item management efficiency."
+        },
+        {
+          "title": "Pack Rotation Enhancements",
+          "description": "Fixed an issue with rotating packs and introduced a limit of 100 pages per rotation. The rotation interval has been increased to run between 10-30 minutes to optimize performance."
+        },
+        {
+          "title": "Market Search Operators (Beta)",
+          "description": "Added more operators for market search. This feature is currently in beta and will be implemented in the smelt and auction tabs in future updates."
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed other small issues."
+        }
+      ]
+    },
+    {
+      "version": "2.0.17",
+      "features": [
+        {
+          "title": "Hide Gold",
+          "description": "Added Hide Gold in Public Market"
+        },
+        {
+          "title": "Expeditions/Dungeons",
+          "description": "Britannia players have the option to automatically travel to Germany for dungeon runs when their expedition points reach 0. Once their dungeon points drop to 0, they will automatically return to Britannia. This cycle will continue as long as the player's expedition points hit 0 and they have accumulated at least 12 dungeon points. This allows for continuous play without manual intervention, maximizing both expedition and dungeon efficiency."
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed other small issues"
+        }
+      ]
+    },
+    {
+      "version": "2.0.16",
+      "features": [
+        {
+          "title": "Gold Packs",
+          "description": "Added Notification option for Upcoming 24h expiring gold packages"
+        },
+        {
+          "title": "Hide Gold",
+          "description": "Refactor workflow, prioritizing selling packs over buying"
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed other small issues"
+        }
+      ]
+    },
+    {
+      "version": "2.0.15",
+      "features": [
+        {
+          "title": "Underworld",
+          "description": "Prevent doing Underworld run if the Costume is already available."
+        },
+        {
+          "title": "Heal",
+          "description": "Added option for Eggs and Cervisia"
+        },
+        {
+          "title": "Buy Food",
+          "description": "Added option renew shop or buy food only if needed"
+        }
+      ]
+    },
+    {
+      "version": "2.0.14",
+      "features": [
+        {
+          "title": "Pauses",
+          "description": "Added Random start and end minutes to pauses, making the behavior feel more human-like"
+        },
+        {
+          "title": "Costumes Bug fix",
+          "description": "Fixed small issue regarding auto wear of costumes."
+        }
+      ]
+    },
+    {
+      "version": "2.0.13",
+      "features": [
+        {
+          "title": "Repair Buttons",
+          "description": "Added Partial and full Repair buttons at Workbench"
+        },
+        {
+          "title": "UI Improvements",
+          "description": "Fixed modals for fixed layout display"
+        }
+      ]
+    },
+    {
+      "version": "2.0.12",
+      "features": [
+        {
+          "title": "Public Market",
+          "description": "Added Public Market search for items and auto buy"
+        },
+        {
+          "title": "Workflow Improvements",
+          "description": "Improved Gold pick and smelt workflow"
+        },
+        {
+          "title": "UI Improvements",
+          "description": "Improved same UI components"
+        }
+      ]
+    },
+    {
+      "version": "2.0.11",
+      "features": [
+        {
+          "title": "Dungeon",
+          "description": "Added Attack if quest available."
+        },
+        {
+          "title": "Rotate packs",
+          "description": "Fixed bug, where all items were rotated no matter of the selected items"
+        },
+        {
+          "title": "Other",
+          "description": "Fixed pick gold bug from packages"
+        }
+      ]
+    },
+    {
+      "version": "2.0.10",
+      "features": [
+        {
+          "title": "Processing flow",
+          "description": "Improved Expedition, Dungeons, Arenas flow"
+        },
+        {
+          "title": "Other",
+          "description": "Bugs fixes."
+        }
+      ]
+    },
+    {
+      "version": "2.0.9",
+      "features": [
+        {
+          "title": "Arena & Turma",
+          "description": "Added Max Level Difference Allowed for Attack"
+        },
+        {
+          "title": "Other",
+          "description": "Bugs fixes."
+        }
+      ]
+    },
+    {
+      "version": "2.0.8",
+      "features": [
+        {
+          "title": "Work",
+          "description": "Added Work while on pause"
+        },
+        {
+          "title": "Info",
+          "description": "Added info button for Quest and Pause"
+        },
+        {
+          "title": "Expeditions",
+          "description": "Added Attack if quest available."
+        },
+        {
+          "title": "Other",
+          "description": "Small bugs fix and code improvements."
+        }
+      ]
+    },
+    {
+      "version": "2.0.7",
+      "features": [
+        {
+          "title": "Underworld Farm",
+          "description": "Added Underworld item farm: mob attack and quest. Added Sacrifice healing"
+        },
+        {
+          "title": "Hide gold",
+          "description": "Added possibility to reset the next check timer"
+        },
+        {
+          "title": "Auction",
+          "description": "Reworked small portion of code to improve biding."
+        }
+      ]
+    },
+    {
+      "version": "2.0.6",
+      "features": [
+        {
+          "title": "Internationalization",
+          "description": "Added Translations for the fallowing languages: English, Español, Deutsch, Brazil, Poland, Romania, Français, Portuguese, Turkey, Czech, Peru, Russia, Hungary"
+        },
+        {
+          "title": "Bug fix",
+          "description": "Fixed issue when bot stopped working if the server time was not isn sync with client time"
+        }
+      ]
+    },
+    {
+      "version": "2.0.5",
+      "features": [
+        {
+          "title": "Hide gold Training",
+          "description": "Added Hide Gold in training"
+        },
+        {
+          "title": "Hide gold Auction",
+          "description": "Added hide Gold in Auction"
+        },
+        {
+          "title": "Hide gold Guild",
+          "description": "Update hide gold flow to check multiple pages in guild market for packs if available"
+        },
+        {
+          "title": "UI",
+          "description": "Added display for waiting time in Hide Gold"
+        },
+        {
+          "title": "Food Auction",
+          "description": "Added a limit of food pages, after witch bot will stop biding for food until the page numbers is less then the limit set"
+        }
+      ]
+    },
+    {
+      "version": "2.0.4",
+      "features": [
+        {
+          "title": "Packages Auto sell",
+          "description": "Fixed issue using clothes on auto sell and improved selling speed(5-10 time faster). Added new option for selecting Shred of leather. Added option to automatically sell when shops are renewed, based on previous item selection"
+        },
+        {
+          "title": "Bugs",
+          "description": "Fixed export config bug"
+        },
+        {
+          "title": "UI",
+          "description": "Small UI changes for pin layout"
+        }
+      ]
+    },
+    {
+      "version": "2.0.3",
+      "features": [
+        {
+          "title": "Mobile accessibility",
+          "description": "Fixed issue with mobile accessibility."
+        },
+        {
+          "title": "Pin Bot to Bottom",
+          "description": "Added the option to pin the bot to the bottom of the page. This feature is fully responsive, ensuring that the bot stays pinned across all screen sizes and applications."
+        },
+        {
+          "title": "Improved Repair and Smelt Processes",
+          "description": "Enhanced the repair and smelt processes for better performance and efficiency."
+        }
+      ]
+    },
+    {
+      "version": "2.0.2",
+      "features": [
+        {
+          "title": "Improved Pack rotation",
+          "description": "Added oil selection"
+        },
+        {
+          "title": "Bug fix",
+          "description": "Fixed critical bug regarding auto processing tasks"
+        }
+      ]
+    },
+    {
+      "version": "2.0.1",
+      "features": [
+        {
+          "title": "Improved Pack rotation",
+          "description": "Significant improvements to selection of items that can be rotated"
+        },
+        {
+          "title": "Bug fix",
+          "description": "Fixed extension for mobile browser for example kiwi browser"
+        },
+        {
+          "title": "UI changes",
+          "description": "Small ui adjustments to some components"
+        }
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "features": [
+        {
+          "title": "New UI",
+          "description": "Experience a refreshed and modern user interface with improved accessibility and user experience."
+        },
+        {
+          "title": "Background Functionality",
+          "description": "The extension now works seamlessly in the background, even when tabs are inactive or minimized."
+        },
+        {
+          "title": "Improved Underworld Run",
+          "description": "Optimized Underworld run with enhanced use of gods` buffs and oils for better performance."
+        },
+        {
+          "title": "Small features",
+          "description": "Various small features have been added, improving the overall user experience."
+        },
+        {
+          "title": "Bug Fixes",
+          "description": "Various small bugs have been addressed, improving the overall stability and performance of the extension."
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "features": [
+        {
+          "title": "Test Version",
+          "description": "5bdc7d63 aHR0cHM6Ly9hcGktZ2xhZGlhdHVzLWhlbHBlci1hMTljODY0Zjg5ODkuaGVyb2t1YXBwLmNvbS9jaGVjay1saWNlbmNlLw=="
+        }
+      ]
+    }
+  ]
+}
+

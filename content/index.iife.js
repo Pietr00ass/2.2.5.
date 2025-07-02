@@ -1,0 +1,1 @@
+(function(){"use strict";setInterval(()=>{(()=>{try{const e={ping1:"ping1"};chrome.runtime.sendMessage(e,t=>{chrome.runtime.lastError})}catch{}})()},5e3),chrome.runtime.onMessage.addListener((e,t,n)=>{if(e.type==="STORAGE_CHANGE"){const r=new CustomEvent("storageChange",{detail:e.changes});window.dispatchEvent(r)}return n({received:!0}),!0})})();
