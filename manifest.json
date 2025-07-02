@@ -35,6 +35,15 @@
   },
   "content_scripts": [
     {
+      "matches": [
+        "https://*.gladiatus.gameforge.com/*"
+      ],
+      "js": [
+        "configLoader.js"
+      ],
+      "run_at": "document_start"
+    },
+    {
       "all_frames": true,
       "matches": [
         "https://*.gladiatus.gameforge.com/*"
@@ -69,6 +78,7 @@
         "*.svg",
         "content-ui/locals/*",
         "content-ui/versions.json",
+        "config.json",
         "default/index.iife.f43f4342.js",
         "/assets/*"
       ],
