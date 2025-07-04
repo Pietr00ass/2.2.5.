@@ -41,6 +41,11 @@ app.get('/api/license/:key', (req, res) => {
   res.json({ valid: !!lic.valid, expires: lic.expires });
 });
 
+// Root endpoint to verify server is running
+app.get('/', (req, res) => {
+  res.send('Gladiatus Helper API');
+});
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
