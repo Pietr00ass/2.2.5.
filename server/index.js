@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 
 // Load licenses from file
 function loadLicenses() {
@@ -39,6 +39,11 @@ app.get('/api/license/:key', (req, res) => {
     return res.status(404).json({ valid: false });
   }
   res.json({ valid: !!lic.valid, expires: lic.expires });
+});
+
+// Root endpoint to verify server is running
+app.get('/', (req, res) => {
+  res.send('Gladiatus Helper API');
 });
 
 app.listen(PORT, () => {
